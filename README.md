@@ -1,9 +1,9 @@
-# Hi, I'm Kenneth 👋
+# Salut, I'm Kenneth 👋 Bienvenu dans mon monde 😊
 
-Développeur web full-stack junior basé au Bénin 🇧🇯, passionné par la construction d'applications modernes et en constante progression.
+Développeur full-stack junior basé au Bénin 🇧🇯, passionné par la construction d'applications modernes et en constante progression.
 
-- 🎯 Actuellement en recherche d'une **alternance / stage en développement web**
-- 🔭 En train de monter en compétences sur **React, NestJS et les architectures full-stack**
+- 🎯 Actuellement en recherche d'une **alternance / stage en développement web et mobile**
+- 🔭 En train de monter en compétences sur **React, NestJS, React-native et les architectures full-stack**
 - 💡 J'aime créer des interfaces propres et des APIs robustes
 - 📫 Me contacter : [kennethtchegninougbo2003@gmail.com](mailto:kennethtchegninougbo2003@gmail.com)
 - 🌐 Portfolio : [kennethdev.vercel.app](https://kennethdev.vercel.app)
@@ -12,7 +12,7 @@ Développeur web full-stack junior basé au Bénin 🇧🇯, passionné par la c
 
 ## 🛠️ Technologies & Outils
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,nestjs,mysql,sequelize,bootstrap,git,github,vscode&perline=7)](https://kennethdev.vercel.app)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,nestjs,mysql,sequelize,bootstrap,git,github,tailwind,vscode&perline=7)](https://kennethdev.vercel.app)
 
 ---
 
