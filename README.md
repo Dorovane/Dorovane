@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Tchegninougbo%20Kenneth&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Développeur%20Full-Stack%20•%20DevOps%20•%20Cybersécurité&descAlignY=60&descSize=18" alt="Bannière" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Salut+%F0%9F%91%8B+moi+c'est+Kenneth+(Dorovane);Développeur+Full-Stack+JavaScript+%26+TypeScript;Je+construis+des+apps+web+et+mobile+modernes;Passionné+de+DevOps+et+de+cybersécurité;Basé+à+Cotonou%2C+Bénin+%F0%9F%87%A7%F0%9F%87%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Salut+moi+c+est+Kenneth;Developpeur+Full-Stack+JavaScript;Applications+web+et+mobile;DevOps+et+Cybersecurite;Cotonou+Benin" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -149,7 +149,10 @@ const kenneth = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dorovane&theme=tokyonight&hide_border=true" alt="Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dorovane&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophées" />
+![Full-Stack](https://img.shields.io/badge/Full--Stack-JavaScript-4F46E5?style=for-the-badge&logo=javascript&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-VPS%20%2F%20Linux-06B6D4?style=for-the-badge&logo=linux&logoColor=white)
+![Cybersécurité](https://img.shields.io/badge/Cybers%C3%A9curit%C3%A9-Python%20%2F%20C-4F46E5?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Open to work](https://img.shields.io/badge/Open_to_work-Oui-22C55E?style=for-the-badge)
 
 </div>
 
