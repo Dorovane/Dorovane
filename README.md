@@ -9,7 +9,7 @@
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=Dorovane&label=Visiteurs&color=4F46E5&style=for-the-badge)
+
 ![Followers](https://img.shields.io/github/followers/Dorovane?label=Followers&style=for-the-badge&logo=github&color=06B6D4)
 ![Stars](https://img.shields.io/github/stars/Dorovane?label=Stars&style=for-the-badge&logo=github&color=4F46E5)
 
