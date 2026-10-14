@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Tchegninougbo%20Kenneth&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Développeur%20Full-Stack%20•%20DevOps%20•%20Cybersécurité&descAlignY=60&descSize=18" alt="Bannière" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Salut+moi+c+est+Kenneth;Developpeur+Full-Stack+JavaScript;Applications+web+et+mobile;DevOps+et+Cybersecurite;Cotonou+Benin" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Salut+moi+c+est+Kenneth;Developpeur+Full-Stack+JavaScript;Applications+web+et+mobile;DevOps+et+Cybersecurite;Cotonou+Benin;Ravi+de+te+connaitre;Laisse+moi+un+message+je+te+repondrai" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,9 +27,13 @@ const kenneth = {
   formation: "Licence en Mathématiques Informatique",
   role: "Développeur Full-Stack (Web & Mobile)",
   approche: "Du code au déploiement, avec une mentalité DevOps & Sécurité",
-  langues: ["Français 🇫🇷 (courant)", "Fon 🇧🇯 (langue maternelle)", "Anglais 🇬🇧 (intermédiaire)"],
+  langues: [
+    "Français 🇫🇷 (courant)",
+    "Fon 🇧🇯 (langue maternelle)",
+    "Anglais 🇬🇧 (intermédiaire)",
+  ],
   motivation: "Apprendre chaque jour et construire des produits utiles",
-  disponibilite: "Ouvert à toutes les opportunités 🚀"
+  disponibilite: "Ouvert à toutes les opportunités 🚀",
 };
 ```
 
@@ -49,13 +53,13 @@ const kenneth = {
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,next,nodejs,express,nestjs&perline=11" alt="Web" />
 </p>
 
-| Domaine | Technologies |
-|---|---|
-| **Langages** | HTML • CSS • JavaScript • TypeScript |
-| **UI / Styling** | Bootstrap • Tailwind CSS |
-| **Frontend** | React • Next.js • Progressive Web Apps (PWA) |
+| Domaine           | Technologies                                         |
+| ----------------- | ---------------------------------------------------- |
+| **Langages**      | HTML • CSS • JavaScript • TypeScript                 |
+| **UI / Styling**  | Bootstrap • Tailwind CSS                             |
+| **Frontend**      | React • Next.js • Progressive Web Apps (PWA)         |
 | **Backend & API** | Node.js • Express.js • NestJS • Conception d'API Web |
-| **Mobile** | React Native |
+| **Mobile**        | React Native                                         |
 
 ### 🏗️ Fondations & Architecture
 
@@ -94,16 +98,20 @@ const kenneth = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 ShopFlow</h3>
-      <p>Plateforme e-commerce complète : catalogue, panier, paiement mobile et tableau de bord admin.</p>
+      <h3>Backend Taskmanager</h3>
+      <p>Backend de gestion de tache et utilisateur securisé</p>
+      <!--
       <p>
         <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs" />
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
       </p>
-      <a href="https://github.com/Dorovane/shopflow">📂 Code</a> • <a href="https://shopflow.example.com">🌍 Démo</a>
+      -->
+      <a href="https://github.com/Dorovane/backend-taskmanager">📂 Code</a> • <a href="https://github.com/Dorovane/backend-taskmanager">🌍 Pas de Démo</a>
     </td>
-    <td width="50%" valign="top">
+    <!--
+
+        <td width="50%" valign="top">
       <h3>✅ TaskMaster Pro</h3>
       <p>Application de gestion de tâches avec vues Kanban et liste, interface moderne en français.</p>
       <p>
@@ -113,8 +121,13 @@ const kenneth = {
       </p>
       <a href="https://github.com/Dorovane/taskmaster-pro">📂 Code</a> • <a href="https://taskmaster.example.com">🌍 Démo</a>
     </td>
+
+    -->
+
   </tr>
   <tr>
+  <!--
+
     <td width="50%" valign="top">
       <h3>📱 MobiPay</h3>
       <p>Application mobile de suivi de dépenses et de transferts, utilisable hors-ligne.</p>
@@ -135,6 +148,9 @@ const kenneth = {
       </p>
       <a href="https://github.com/Dorovane/secscan-cli">📂 Code</a>
     </td>
+
+-->
+
   </tr>
 </table>
 
@@ -160,14 +176,14 @@ const kenneth = {
 
 ## 🎯 Ce que je recherche
 
-| | |
-|---|---|
-| 💼 **Emploi** | Développeur Full-Stack / Backend / DevOps |
-| 🧑🏾‍💻 **Freelance** | Sites web, applications, e-commerce, déploiement |
-| 🤝 **Collaboration** | Projets open source et projets innovants |
+|                      |                                                   |
+| -------------------- | ------------------------------------------------- |
+| 💼 **Emploi**        | Développeur Full-Stack / Backend / DevOps         |
+| 🧑🏾‍💻 **Freelance**     | Sites web, applications, e-commerce, déploiement  |
+| 🤝 **Collaboration** | Projets open source et projets innovants          |
 | 📚 **Apprentissage** | Cloud, sécurité offensive/défensive, architecture |
 
-> 💬 *Une idée, un projet, une opportunité ? Écris-moi, je suis preneur de tout !*
+> 💬 _Une idée, un projet, une opportunité ? Écris-moi, je suis preneur de tout !_
 
 ---
 
@@ -175,19 +191,22 @@ const kenneth = {
 
 <div align="center">
 
-<a href="mailto:kenneth@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://wa.me/22900000000"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-<a href="https://www.linkedin.com/in/dorovane"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://dorovane.example.com"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:kennethtchegninougbo2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://wa.me/22990136567"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://www.linkedin.com/in/kenneth-tchegninougbo-59201a30b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.dorovane.space"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
-<a href="https://x.com/dorovane"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://www.instagram.com/dorovane"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://www.facebook.com/dorovane"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.facebook.com/61594058785427">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://www.instagram.com/dorovane_dev">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer" alt="Footer" />
 
-*« Le code est une langue qui se parle mieux avec la pratique. »* ✨
+_« Le code est une langue qui se parle mieux avec la pratique. »_ ✨
 
 </div>
