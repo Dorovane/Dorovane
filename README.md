@@ -110,8 +110,7 @@ const kenneth = {
       <a href="https://github.com/Dorovane/backend-taskmanager">📂 Code</a> • <a href="https://github.com/Dorovane/backend-taskmanager">🌍 Pas de Démo</a>
     </td>
     <!--
-
-        <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3>✅ TaskMaster Pro</h3>
       <p>Application de gestion de tâches avec vues Kanban et liste, interface moderne en français.</p>
       <p>
@@ -121,12 +120,11 @@ const kenneth = {
       </p>
       <a href="https://github.com/Dorovane/taskmaster-pro">📂 Code</a> • <a href="https://taskmaster.example.com">🌍 Démo</a>
     </td>
-
     -->
 
   </tr>
+<!--
   <tr>
-  <!--
 
     <td width="50%" valign="top">
       <h3>📱 MobiPay</h3>
@@ -148,10 +146,8 @@ const kenneth = {
       </p>
       <a href="https://github.com/Dorovane/secscan-cli">📂 Code</a>
     </td>
-
--->
-
   </tr>
+-->
 </table>
 
 ---
